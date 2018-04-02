@@ -8,3 +8,8 @@ Zadanie:
 3. Sprawdzenie w dokumentacji jak nalezy wywołać jshint;
 4. Dodanie w package.json test:js, który będzie uruchamiał jshint dla wszystkich plików js;
 5. Wywołanie test:js w tasku test.
+
+Rozwiązania, tchnologie i narzędzia:
+- HTML 5;
+- JavaScript;
+- npm (task runner).
